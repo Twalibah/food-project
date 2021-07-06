@@ -1,12 +1,13 @@
 body{
     font-family: 'Otomanopee One', sans-serif;
     color: rgb(54, 35, 16);
+    margin: 0%;
 }
 .head-color{
     color: rgb(187, 124, 7);
 }
 .container{
-       display: flex;
+    display: flex;
 }
 .width-half{
     width: 50%;
@@ -26,7 +27,48 @@ body{
 .sec-port{
     background-image: url(images/7.png);
     background-repeat: no-repeat;
-    background-position-x: left;
+    background-position: 100%;
     background-size: 100%;
     
+}
+.areas{
+    width: 30%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 20px 40px;
+    box-shadow: 10px 10px 40px seagreen;
+    border-radius: 10px;
+}
+.areas img{
+    width: 100%;
+}
+h2{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+.bonus-sec{
+    width:90%;
+    margin: 5%;
+    box-shadow: 10px 10px 40px rgb(103, 105, 104);
+    border-radius: 10px;
+}
+.bonus{
+    width: 30%;
+    margin: 5%;
+    padding: 10px 20px;
+    text-align: center;
+}
+.last{
+    width: 100%;
+    height: 200px;
+    background-color: black;
+    padding: 20px 40px;
+    color: cornsilk;
+    text-align: center;
+}
+#passage{
+    text-align: justify;
+    padding: 0% 20%;
 }
