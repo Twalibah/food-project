@@ -16,9 +16,19 @@ body{
 .width-half img{
     width: 80%;
 }
-.bkgnd{
+.button-bkgnd{
     background-image: linear-gradient(rgb(228, 200, 149), orange);
     border-radius: 20px;
     text-decoration: none;
     padding: 10px 20px;
+    color: rgb(6, 85, 33);
+    
+    
 }
+.sec-port{
+    background-image: url(images/7.png);
+    background-repeat: no-repeat;
+    background-position-x: left;
+    background-size: 100%;
+}
+
