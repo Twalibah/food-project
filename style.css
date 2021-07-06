@@ -1,7 +1,6 @@
 body{
     font-family: 'Otomanopee One', sans-serif;
     color: rgb(54, 35, 16);
-    margin: 0%;
 }
 .head-color{
     color: rgb(187, 124, 7);
@@ -15,6 +14,7 @@ body{
 }
 .width-half img{
     width: 80%;
+
 }
 .button-bkgnd{
     background-image: linear-gradient(rgb(228, 200, 149), orange);
@@ -22,13 +22,11 @@ body{
     text-decoration: none;
     padding: 10px 20px;
     color: rgb(6, 85, 33);
-    
-    
 }
 .sec-port{
     background-image: url(images/7.png);
     background-repeat: no-repeat;
     background-position-x: left;
     background-size: 100%;
+    
 }
-
